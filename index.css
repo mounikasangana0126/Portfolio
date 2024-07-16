@@ -24,10 +24,6 @@
     --skills-bordercolor:white;
 }
 
-*::selection {
-    background: var(--main-color);
-    color: var(--bg-color);
-}
 
 .dark-mode {
     --bg-color: #0b061f;
